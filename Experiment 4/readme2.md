@@ -1,0 +1,1 @@
+write a shell script takes file name as argument and convert all of them to uppercase

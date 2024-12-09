@@ -1,0 +1,3 @@
+who
+whoami
+last who
